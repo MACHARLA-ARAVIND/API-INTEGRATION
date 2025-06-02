@@ -35,3 +35,6 @@ Displays that data clearly and instantly
 This project taught me more than just syntax. I learned how the web works, how a browser and JavaScript communicate with external servers (APIs), and how to design a basic but real-world useful application from scratch. It also gave me confidence to build future projects using APIs — such as news apps, COVID trackers, or anything that requires real-time data.
 
 In conclusion, Task 1 was a foundational experience in becoming a full-stack developer. It gave me an excellent understanding of the basics of frontend development and API integration, preparing me for more complex tasks in the upcoming internship challenges.
+
+#OUTPUT
+<img width="1361" alt="Image" src="https://github.com/user-attachments/assets/0c1731ac-0c95-4187-afeb-4a59b8a0d082" />
